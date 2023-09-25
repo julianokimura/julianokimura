@@ -1,3 +1,6 @@
+Juliano Kimura, São Paulo, Brazil
+
+
 - 👋 Hi, I’m @julianokimura
 - 👀 I’m interested in Blockchain 
 - 🌱 I’m currently learning Blockchain and Deep Learning (TensorFLow)
